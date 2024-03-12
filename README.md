@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 📫**ternullo.nicholas@gmail.com**
+- 📫 ternullo.nicholas@gmail.com
 </p>
 
 <br>
