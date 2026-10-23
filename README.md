@@ -1,5 +1,6 @@
 <h1 align="center">Nicholas Ternullo</h1>
-<h3 align="center">Studente d'Informatica presso l'Università del Piemonte Orientale</h3>
+<h3 align="center">Firmware Developer</h3>
+<h3 align="center">Laureato in Informatica presso l'Università del Piemonte Orientale</h3>
 
 <br>
 
